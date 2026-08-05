@@ -1,6 +1,6 @@
 
 
-This is a Python notebook for primary analysis of health technology stocks, combining price data collection, technical trading signals, machine learning classification, and portfolio theory (CAPM and efficient frontier construction).
+This is a Python notebook for primary analysis of health technology stocks, combining price data collection, technical trading signals, machine learning classification, and portfolio theory (CAPM and efficient frontier construction). I used my prior knowledge of Python programming alongside AI tools to explore how finance and data analysis might overlap.
 
 # Overview
 
@@ -13,5 +13,3 @@ This project pulls historical price data for health tech and pharma tickers (ISR
 - CAPM parameter estimation (alpha, beta, R²)
 - Efficient frontier construction for a multi-stock portfolio
 - A mean reversion strategy driven by RSI
-
-This is solely for educational purposes.
